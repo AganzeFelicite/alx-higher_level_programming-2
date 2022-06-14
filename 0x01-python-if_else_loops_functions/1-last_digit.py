@@ -9,4 +9,4 @@ if last_dig > 5:
 elif last_dig == 0:
     print(f"{start} and is 0")
 else:
-    print(f"{start} and is less than 6 and not 0")
+    print(f"{start} and is less than 6 and not 0")  
